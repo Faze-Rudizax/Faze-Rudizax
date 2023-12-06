@@ -1,6 +1,6 @@
 <h2><b> C++ ENJOYER</h2>
 
-<img src = "https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=00599C">
+<img src = "https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=00599C">
 
 <h2><b>codewars</h3>
 
